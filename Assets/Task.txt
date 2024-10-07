@@ -7,7 +7,8 @@ Tasks:
 
 1. Modeling:
    - Create a 3D model of a car.
-   - Reduce the model to 50,000 polygons excluding the wheels.
+   - Reduce the car model to 50,000 polygons excluding the wheels(path to the model:TestTaskDSCOFF\Assets\ProvidedResources\supra\junk\untitled.fbx).
+   - You can tint the car windows and remove the interior to reduce the number of polygons
 
 2. Texturing and Materials:
    - Select textures and shaders for the model.
@@ -47,5 +48,6 @@ Timeframe:
 
 Additional Note:
 - On the stage, display several car variants with different textures. The texture can be anything, even just a changed color or 2-3 colors.
+- Use Unity Version 2022.3.40f1
 
 Good luck with the assignment!
