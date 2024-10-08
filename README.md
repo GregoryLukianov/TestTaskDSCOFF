@@ -15,16 +15,10 @@ Tasks:
    - You can use textures from the provided resources.
 
 3. Setting up the Scene in Unity:
-   - Find or create a garage/showroom scene.
    - Place the car model in the scene.
    - Set up the scene and lighting to achieve the best visual result.
 
-4. Optimization:
-   - Optimize the project to minimize draw calls and the number of vertices in the frame.
-   - Ensure the project runs smoothly without losing visual quality.
-
-5. Deployment:
-   - Upload the completed assignment to your GitHub repository and provide a link.
+4. Deployment:
    - Alternatively, upload the project to Google Drive, removing all folders from the Unity project directory except the following:
      - `Assets`
      - `Packages`
