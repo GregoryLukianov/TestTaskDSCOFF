@@ -6,7 +6,6 @@ Create and optimize a 3D car model, set it up in Unity, and present it in a gara
 Tasks:
 
 1. Modeling:
-   - Create a 3D model of a car.
    - Reduce the car model to 50,000 polygons excluding the wheels(path to the model:TestTaskDSCOFF\Assets\ProvidedResources\supra\junk\untitled.fbx).
    - You can tint the car windows and remove the interior to reduce the number of polygons
 
